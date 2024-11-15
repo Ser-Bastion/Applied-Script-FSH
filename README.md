@@ -1,3 +1,3 @@
 "# Applied-Script-Studier" 
 
-#Hej :)
+#Hey :)
